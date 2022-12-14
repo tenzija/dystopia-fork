@@ -81,7 +81,7 @@ contract DystFactory is IFactory {
   }
   
   function OMNI() public pure returns(string memory) {
-  		return "tenzija: hello OMNI";
+  	return "tenzija: hello OMNI";
   }
   
 }
