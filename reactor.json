@@ -1,0 +1,11 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "tenzija",
+    "repo": "dystopia-fork",
+    "branch": "master"
+  },
+  "name": "dystopia-fork",
+  "description": "",
+  "version": "1.0.0"
+}
