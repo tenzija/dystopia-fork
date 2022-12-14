@@ -79,4 +79,9 @@ contract DystFactory is IFactory {
     isPair[pair] = true;
     emit PairCreated(token0, token1, stable, pair, allPairs.length);
   }
+  
+  function OMNI() public pure returns(string memory) {
+		return "tenzija: hello OMNI";
+	}
+  
 }
